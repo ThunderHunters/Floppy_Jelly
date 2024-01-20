@@ -37,8 +37,8 @@ score = 0
 pass_pipe = False
 played_death_sound = False 
 
-# Define the path to the images and audio files
-file_path = "/Users/angelacapolino/Documents/Python Games/New Floppy Bird/JellyBird Files/"
+# Define the path to the images and audio files ((Replace XXX here to your location of downloaded game files))
+file_path = "/XXX/"
 
 # Load images
 bg = pygame.image.load(file_path + 'Water Tunnel Wide BG.jpg')
